@@ -66,6 +66,10 @@ header span {
   justify-content: space-between;
 }
 
+.menu-bar-only.container {
+  display: none;
+}
+
 /*Mini-images section*/
 
 .products {
