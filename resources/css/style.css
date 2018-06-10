@@ -189,7 +189,6 @@ footer {
 
   .location-hours-boxes {
     display: block;
-    width: 90%;
     margin-top: 3rem;
     margin-bottom: 3.5rem;
   }
@@ -199,7 +198,7 @@ footer {
   #location-hours-box {
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 90%;
   }
 
   #location-hours-box span {
